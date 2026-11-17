@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Java / Ant build outputs
+build/
+dist/
+*.class
+*.jar
+hs_err_pid*
+
+# NetBeans user-specific files
+**/nbproject/private/
